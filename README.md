@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+### Spotify Playing 🎧
+[<img src="https://novatorem.kundansingh007.vercel.app/spotify-playing" alt="KundanSingh Spotify Playing" width="350" />](https://open.spotify.com/user/31wr37moimt2ygiip6h6uzrcyz64)
+
+<br />
+<br />
