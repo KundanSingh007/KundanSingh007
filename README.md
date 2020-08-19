@@ -8,16 +8,17 @@
 
 ###  🔭 I’m currently working on coding!
 ###  🌱 I’m currently learning coding!
-###  👯 I’m looking to collaborate a group a coder whose aim is to increase their coding skills.(codecheif,leetcode,GFG.etc); 
-###  🤔 I’m looking for help with increasing MY coding skill knowledge.
+###  👯 I’m looking to collaborate with a group a coder whose aim is to increase their coding skills.(codecheif,leetcode,GFG.etc); 
+###  🤔 I’m looking for a JOB.
 ###  💬 Ask me about anything..:)
-###  📫 How to reach me: singh.kundan@protonmail.com  !
-###  ⚡ Fun fact: coding level 5/10...:)
+###  📫 If anyone know a legit placement ongoing in anywhere in INDIA(also company outside India who allows work from home) PLEASE reach me here: singh.kundan@protonmail.com !(reputated company,web dev)
+###  ⚡ Fun fact: csgo rank MGE ; coding level 5/10...:)
+###  Some are GOD gifted and some are giving Gifts to GOD...:)
 
 <br />
 <br />
 
-### Languages and Tools i know:
+### Languages and Tools I know:
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -34,3 +35,5 @@
 
 <br />
 <br />
+
+ ### keep on coding...:)
