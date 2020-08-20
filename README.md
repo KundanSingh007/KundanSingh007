@@ -10,7 +10,6 @@
 ### https://kundansingh007.github.io/BestFinessClub/
 ###  🌱 I’m currently learning coding!
 ###  👯 I’m looking to collaborate with a group of coder whose aim is to increase their coding skills(codecheif,leetcode,GFG.etc); 
-###  🤔 I’m also looking for a JOB.
 ###  💬 Ask me about anything..:)
 ###  📫 If anyone knowa a legit placement ongoing in anywhere in INDIA(also company outside India who allows work from home) PLEASE reach me here: singh.kundan@protonmail.com !(reputated company,web dev)
 ###  ⚡ Fun fact: csgo rank MGE ; coding level 5/10...:)
