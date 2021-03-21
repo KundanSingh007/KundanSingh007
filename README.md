@@ -1,18 +1,22 @@
-### Hi there 👋
-### HOPE THIS HELPS :
+<h1 align="center">Hi 👋, I'm Kundan Singh</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <!--
 **KundanSingh007/KundanSingh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 
 
-###  🔭 I’m currently working on coding!
-###  Responsive website under construction:
-### https://kundansingh007.github.io/BestFinessClub/
-###  🌱 I’m currently learning coding!
-###  👯 I’m looking to collaborate with a group of coder whose aim is to increase their coding skills(codecheif,leetcode,GFG.etc); 
-###  💬 Ask me about anything..:)
-###  📫 If anyone knowa a legit placement ongoing in anywhere in INDIA(also company outside India who allows work from home) PLEASE reach me here: singh.kundan@protonmail.com !(reputated company,web dev)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kundansingh007&label=Profile%20views&color=0e75b6&style=flat" alt="kundansingh007" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kundansingh007" alt="kundansingh007" /></a> </p>
+
+- 🔭 I’m currently working on **amazon-clone**
+
+- 🌱 I’m currently learning **spring**
+
+- 💬 Ask me about **MEAN/MERN/MEVN STACK**
+
+- 📫 How to reach me **singh.kundan@protonmail.com**
 
 <br />
 <br />
@@ -34,24 +38,16 @@
 <br />
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundansingh007&show_icons=true&locale=en&layout=compact" alt="kundansingh007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kundansingh007&show_icons=true&locale=en" alt="kundansingh007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kundansingh007&" alt="kundansingh007" /></p>
+
  ### keep on coding...:)
  
  
  ###################################################
- <h1 align="center">Hi 👋, I'm Kundan Singh</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kundansingh007&label=Profile%20views&color=0e75b6&style=flat" alt="kundansingh007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kundansingh007" alt="kundansingh007" /></a> </p>
-
-- 🔭 I’m currently working on **amazon-clone**
-
-- 🌱 I’m currently learning **spring**
-
-- 💬 Ask me about **MEAN/MERN/MEVN STACK**
-
-- 📫 How to reach me **singh.kundan@protonmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
