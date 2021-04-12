@@ -39,9 +39,15 @@
 
 <br />
 <br />
-### My System Specs:
 
-<img src="https://img.shields.io/badge/AMD-FX_8350_BULLDOZER-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/AMD-Sapphire_Radeon_R9_270X_dual-7A1FA2?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/CORSAIR_VENGENCE_DDR3_16GB-0078D6?style=for-the-badge&logo=nintendo-switch&logoColor=white"/> 
+
+### My Desktop Specs:
+
+<img src="https://img.shields.io/badge/AMD-FX_8350_BULLDOZER-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/AMD-Sapphire_Radeon_R9_270X_dual-7A1FA2?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/CORSAIR_VENGENCE_DDR3_16GB-0078D6?style=for-the-badge&logo=nintendo-switch&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
+
+### My Laptop Specs:
+
+<img src="https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/_DDR3_16GB-0078D6?style=for-the-badge&logo=nintendo-switch&logoColor=white"/>
 
 <br />
 <br />
