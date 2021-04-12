@@ -47,7 +47,7 @@
 
 ### My Laptop Specs:
 
-<img src="https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/_DDR3_16GB-0078D6?style=for-the-badge&logo=nintendo-switch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/_DDR3_16GB-0078D6?style=for-the-badge&logo=nintendo-switch&logoColor=white"/> <img src="https://img.shields.io/badge/Dual_boot Windows/Ubuntu-dd4814 ?style=for-the-badge&logo=windows&logoColor=white"/> 
 
 <br />
 <br />
