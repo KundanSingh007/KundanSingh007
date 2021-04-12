@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **MEAN/MERN/MEVN STACK,RestApi etc..**
 
-- 📫 How to reach me **singh.kundan@protonmail.com**
+- 📫 How to reach me **kundansingh.sdev@gmail.com**
 
 <br />
 <br />
