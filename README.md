@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kundansingh007" alt="kundansingh007" /></a> </p>
 
-- 🔭 I’m currently working on **amazon-clone**
+- 🔭 I’m currently working on **amazon-clone(april 2021-completed)** now on **Linkedin clone(May 4,2021  to...)
 
-- 🌱 I’m currently learning **Full Stack MERN Stack Development**
+- 🌱 I’m currently learning **Full Stack MERN/MEAN/MEVN Stack Development**
 
-- 💬 Ask me about **Javal,MEAN/MERN stack,Spring boot,RestApi etc..**
+- 💬 Ask me about **Java,MEAN/MERN stack,Spring boot,RestApi etc..**
 
 - 📫 How to reach me **kundansingh.sdev@gmail.com**
 
