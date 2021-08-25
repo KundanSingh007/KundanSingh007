@@ -57,11 +57,13 @@
 ###  Spotify Playing 🎧
 
 [<img src="https://novatorem.kundansingh007.vercel.app/api/spotify-playing" alt="KundanSingh Spotify Playing" width="350" />](https://open.spotify.com/user/31wr37moimt2ygiip6h6uzrcyz64)
+
 <br />
 <br />
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundansingh007&show_icons=true&locale=en&layout=compact" alt="kundansingh007" /> </p>
 
+<br />
 <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kundansingh007&show_icons=true&locale=en" alt="kundansingh007" /> </p>
