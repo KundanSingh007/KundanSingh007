@@ -52,22 +52,19 @@
 ### My Laptop Specs:
 
 <img src="https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/_DDR3_16GB-0078D6?style=for-the-badge&logo=nintendo-switch&logoColor=white"/> <img src="https://img.shields.io/badge/Dual_boot Windows/Ubuntu-dd4814?style=for-the-badge&logo=windows&logoColor=white"/> 
-
 <br />
 <br />
-
 ###  Spotify Playing 🎧
 
 [<img src="https://novatorem.kundansingh007.vercel.app/api/spotify-playing" alt="KundanSingh Spotify Playing" width="350" />](https://open.spotify.com/user/31wr37moimt2ygiip6h6uzrcyz64)
-
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundansingh007&show_icons=true&locale=en&layout=compact" alt="kundansingh007" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundansingh007&show_icons=true&locale=en&layout=compact" alt="kundansingh007" /> </p>
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kundansingh007&show_icons=true&locale=en" alt="kundansingh007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kundansingh007&show_icons=true&locale=en" alt="kundansingh007" /> </p>
 
 <br />
 
