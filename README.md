@@ -45,7 +45,6 @@
 <br />
 <br />
 
-
 ### My Desktop Specs:
 
 <img src="https://img.shields.io/badge/AMD-FX_8350_BULLDOZER-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/AMD-Sapphire_Radeon_R9_270X_dual-7A1FA2?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/CORSAIR_VENGENCE_DDR3_16GB-0078D6?style=for-the-badge&logo=nintendo-switch&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
